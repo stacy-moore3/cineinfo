@@ -16,7 +16,7 @@ Você pode ver o projeto em funcionamento através deste link:
 
 ### 🎥 Demonstração em GIF
 
-* **[COLE SEU GIF AQUI - Veja as instruções abaixo]**
+* **https://github.com/DayanaNogueira/cineinfo/blob/main/demonstracao.gif?raw=true**
 
 
 ---
